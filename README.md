@@ -1,13 +1,12 @@
-# Executive--Report
 # Hi,we´re Ticsonomics 👋
 ---
 🧙 Welcome to our GitHub org
 
 "Final Project",UNAM (https://www.unam.mx/) -TICs-Distributed Computing 2023-1 class,taught by Dr. Victor de la Luz 
-
+#### Executive--Report
 
 ____
-## Table of Contents 
+## Table of Contents  :memo:
 * [Team_Members](#Team_Members)
 * [License](#License)
 * [Project Overview](#Project_Overview)
@@ -24,7 +23,7 @@ ____
 * [References](#References)
 
 ____
-# Team_Members
+# Team_Members :family:
 
 * José Ignacio Ireta. ([}ignacio-ireta](https://github.com/ignacio-ireta))
 * Lucrecia Beltz. . ([LucreciaBeltz](https://github.com/LucreciaBeltz))
@@ -159,7 +158,7 @@ Once the system is in production, it must be ensured that it remains up-to-date 
 
 
 
-# Libreries :pencil2:
+# Libraries :pencil2:
 ---
 * [Python 3](https://www.python.org/)
 * Linux Ubuntu    64-bit
